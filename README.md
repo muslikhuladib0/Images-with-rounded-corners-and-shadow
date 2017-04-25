@@ -1,5 +1,5 @@
 # Images with rounded corners and shadow
-Display images in UIView/UIImageView with rounded corners and shadow
+4 different ways to display images in UIView/UIImageView with rounded corners and shadow
 
 ---
 
