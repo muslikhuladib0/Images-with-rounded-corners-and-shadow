@@ -9,6 +9,6 @@ Related Stack Overflow topics:
 
 ---
 
-Result:
+Expected result:
 
 ![Images-with-rounded-corners-and-shadow](https://i.stack.imgur.com/3eqVq.png)
